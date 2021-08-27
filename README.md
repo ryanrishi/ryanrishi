@@ -1,13 +1,19 @@
 # Hi, I'm Ryan 👋
 
 ### 🔭 I’m currently...
-- 👨🏻‍💻 working as a backend-leaning-full-stack engineer&mdash; mostly Java, Spring, MySQL, Kafka, with a sprinkle of Ember.js
-- 🌐 rebuilding [my website](https://ryanrishi.com) with [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)
+- 👨🏻‍💻 working as a backend-leaning-full-stack engineer&mdash; mostly Node, Express, Apollo, and Next.js. In past roles I've worked with Java, Spring, MySQL, Kafka, and Ember.js
 - 🔬 building out [my homelab](https://ryanrishi.com/projects/homelab/) (code is [here](https://github.com/ryanrishi/devops/tree/master/ansible))
 
+### Some side projects I've done
+- [Loudness Wars](https://ryanrishi.com/projects/loudness-wars) - A closer look at how recorded music has been getting increasingly louder over the past 50 years
+- [Letscamp](https://ryanrishi.com/projects/letscamp) - I wrote a bot that texts me when a Yosemite reservation I'm interested in becomes available
+- [COVID-19 Dashboard](https://ryanrishi.com/projects/covid-19-dashboard) - Visualize COVID-19 cases and deaths in the United States
+- [Launchpad](https://ryanrishi.com/projects/launchpad) - A side project I did at work to showcase innovation at the company as part of a new corporate website launch
+
 ### 🌱 I’m currently learning...
+- [@apollo](https://github.com/apollographql)
 - [@nextjs](https://github.com/vercel/next.js)
-- [@tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [@rails](https://github.com/rails/rails)
 
 ### 🤓 Outside of coding...
 - ✈️ getting my private pilot license
