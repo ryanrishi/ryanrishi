@@ -1,8 +1,10 @@
 # Hi, I'm Ryan 👋
 
 ### 🔭 I’m currently...
-- 👨🏻‍💻 working as a backend-leaning-full-stack engineer&mdash; mostly Node, Express, Apollo, and Next.js. In past roles I've worked with Java, Spring, MySQL, Kafka, and Ember.js
+- 👨🏻‍💻 working as a backend/infra engineer at [Twilio](https://www.twilio.com/), where my day-to-day is writing high-througput Java services and authoring reusable Terraform modules to manage infrastructure across the company
 - 🔬 building out [my homelab](https://ryanrishi.com/projects/homelab/) (code is [here](https://github.com/ryanrishi/devops/tree/master/ansible))
+
+In previous roles, I've been mostly a backend-leaning-full-stack engineer&mdash; mostly Java (Spring/Spring Boot), Node (Express/Apollo), MySQL, and Ember.js
 
 ### Some side projects I've done
 - [Loudness Wars](https://ryanrishi.com/projects/loudness-wars) - A closer look at how recorded music has been getting increasingly louder over the past 50 years
@@ -13,7 +15,7 @@
 ### 🌱 I’m currently learning...
 - [@apollo](https://github.com/apollographql)
 - [@nextjs](https://github.com/vercel/next.js)
-- [@rails](https://github.com/rails/rails)
+- [cloud-init](https://cloudinit.readthedocs.io/en/latest/) — trying to use this to automate my [homelab](https://ryanrishi.com/projects/homelab) even further
 
 ### 🤓 Outside of coding...
 - ✈️ getting my private pilot license
